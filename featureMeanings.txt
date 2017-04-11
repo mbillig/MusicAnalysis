@@ -1,0 +1,17 @@
+h1 dominant 7th chords
+h2 natural minor
+h3 minor 7th chords
+h4 standard diatonic
+h5 no chords
+h6 stepwise chord changes
+h7 ambiguous tonality
+h8 major chords no changes
+
+t1 drums, aggressive, percussive
+t2 calm, quiet, mellow
+t3 energetic, speech, bright
+t4 piano, orchestra, harmonic
+t5 guitar, loud, energetic
+t6 /ay/, male voice, vocal
+t7 /oh/, rounded, mellow
+t8 female voice, melodic, voice
